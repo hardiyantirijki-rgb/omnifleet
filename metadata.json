@@ -1,0 +1,6 @@
+{
+  "name": "OmniFleet",
+  "description": "Cross-platform enterprise device fleet management for iOS, Android, Windows, and Linux devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
